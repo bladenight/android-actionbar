@@ -41,6 +41,3 @@ repositories {
     google()
 }
 
-dependencies {
-    compile group: 'com.google.android', name: 'android', version: '2.3.3'
-}
